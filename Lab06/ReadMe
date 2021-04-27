@@ -1,1 +1,7 @@
+File name: hello.sh
+To execute, enter command ./hello
+
+File name: JamieLopez.c
+To execute, enter command  cc -o Jamie JamieLopez.c
+Next command:  ./Jamie
 
