@@ -1,1 +1,14 @@
+File name: lab10p1.c
+To execute the program, enter command  gcc -o lab10 lab10p1.c
+then, command ./lab10
+
+
+File name: findStr.c
+To execute the program, enter command gcc -o finds findStr.c
+then, command ./finds
+
+
+File name: splitTime.c
+To execute the program, enter command  gcc -o time splitTime.c
+then, command ./time
 
