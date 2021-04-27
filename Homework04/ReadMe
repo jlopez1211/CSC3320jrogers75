@@ -1,1 +1,15 @@
+File name: checkPasswd.c
+To execute the program, enter command   gcc -o password checkPasswd.c
+then, command ./password
 
+Filename: checkPalindrome.c
+To execute the program, enter command   gcc -o palin checkPalindrome.c
+then, command ./palin
+
+Filename: swapTwo.c
+To execute the program, enter command   gcc -o swap swapTwo.c
+then, command ./swap
+
+Filename: countryLookup.c
+To execute the program, enter command   gcc -o lookup countryLookup.c
+then, command ./lookup
