@@ -1,0 +1,50 @@
+   37  mkdir ../public
+   38  cp RealEstate.csv ../public/myRealEstate.csv
+   39  cd ~
+   40  cd public
+   41  ls -l
+   42  pwd
+   43  ls /home/jrogers75/public
+   44  cd ../Lab2_P2
+   45  cd ../public
+   46  mkdir Regular Submission/Lab2 Submission/Lab3
+   47  ls
+   48  rmdir Regular
+   49  ls
+   50  mkdir Regular Submission Submission/Lab2 Submission/Lab3
+   51  ls
+   52  cd Submission
+   53  ls
+   54  cd public
+   55  cs ../../public
+   56  cd ../../public
+   57  mv Regular Others
+   58  ls
+   59  cp ../Lab2_P2 ./Submission/Lab2
+   60  cd Lab2
+   61  cd ./Submission/Lab2
+   62  ls
+   63  cd ../../
+   64  cp -r ../Lab2_P2 ./Submission/Lab2 
+   65  cd ./Submission/Lab2
+   66  ls
+   67  cd Lab2_P2
+   68  ls
+   69  cd ../../
+   70  cd ../
+   71  rmdir /home/jrogers75/Lab2_P2
+   72  rmdir -r /home/jrogers75/Lab2_P2
+   73  rm -r /home/jrogers75/Lab2_P2
+   74  cd ~
+   75  ls
+   76  cd public
+   77  history
+   78  history 50 > ./Submission/Lab2/history50.txt
+   79  cd LAB2
+   80  cd Lab2
+   81  cd ./Submission/Lab2
+   82  ls
+   83  cat history50.txt
+   84  cd ../../../
+   85  cd public
+   86  history 50 > ./Submission/Lab2/Lab2_2.txt
