@@ -1,1 +1,7 @@
+File name: q1.c
+To execute, enter command gcc -o q1 q1.c
+Then, command ./q1
 
+File name: q2.c
+To execute, enter command gcc -o q2 q2.c
+Then, command ./q2
