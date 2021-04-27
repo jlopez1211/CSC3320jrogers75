@@ -1,1 +1,24 @@
+1.
+a. Save file sortNum.c to your directory
+b. Compile the program by entering command: gcc -o sort sortNum.c
+c. Execute the program by entering command: ./sort
+d. Respond to prompt for Ascending or Descending sort
 
+
+2. 
+a. Save file sortAlpha.c to your directory
+b. Compile the program by entering command: gcc -o alpha sortAlpha.c
+c. Execute the program by entering command: ./alpha
+d. Respond to prompt for Ascending or Descending sort
+
+3. 
+a. Save file sortnumDMA1.c to your directory
+b. Compile the program by entering command: gcc -o numdma sortnumDMA1.c
+c. Execute the program by entering command: ./numdma
+d. Respond to prompt for Ascending or Descending sort
+
+4. 
+a. Save file covidRegister.c to your directory
+b. Compile the program by entering command: gcc -o covid covidRegister.c
+c. Execute the program by entering command: ./covid
+d. Respond to prompts 
