@@ -1,1 +1,51 @@
+1.
+a. Save mandatabase.txt in your directory
+b. Save helpme.sh in your directory
+c. Enter command  ./helpme.sh   to execute the script
+d. Enter one of the following commands to test the program:
+cat, ls, sort, mkdir, sed, echo, clear, vi, wc, mv
 
+
+2.  
+a. Save myexamfile.txt in your directory
+b. Save shell script dragonconfind.sh in your directory
+c. Enter command ./dragonconfind.sh 
+d. Test words previously used: dragon, game, fantasy, cosplayer, Atlanta, parade, Star
+
+3. 
+a. Save shell script named compressold.sh in your directory
+b. Enter command ./compressold.sh  to execute the script
+c. Enter the number of days files have not be accessed to be compressed
+d. Compressed files appear as .tar.gz
+
+4.
+a. Save the following files in your directory:
+  addcontact.sh
+  viewcontact.sh
+  editcontact.sh
+  deletecontact.sh
+  phonebookutility.sh
+  phone_database.txt
+b. Run command ./phonebookutility.sh to execute the program
+c. Answer prompts as desired
+  
+5. Part 1
+a. Save factorial.c in your directory
+b. Compile the program with: gcc -o factorial factorial.c
+c. Execute the program  ./factorial
+d. Enter a number to calculate its factorial
+
+
+5. Part 2
+a. Save midterm5b.c in your directory
+b. Compile the program by entering: gcc -o midterm5b midterm5b.c
+c. Execute the program with: ./midterm5b
+d. Enter an integer when prompted
+
+6.  Extra Credit
+a. Copy following files to your directory:
+    question5.sh
+    midterm5bextra.c
+    factorialextra.c
+b.  Execute the shell program by entering this command:  ./question5.sh
+c. Enter an integer when prompted
