@@ -1,1 +1,12 @@
+File name: getMostFreqChar.c
+To execute the file, enter command  gcc -o frequent getMostFreqChar.c
+Then, command ./frequent
+
+File name: addressOfScalar.c
+To execute the file, enter command gcc -o scalar addressOfScalar.c
+Then, command  ./scalar
+
+File name: addressOfArray.c
+To execute the file, enter command gcc -o array addressOfArray.c
+Then, command ./array
 
