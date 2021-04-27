@@ -1,15 +1,21 @@
 File name: checkPasswd.c
+Save file in your selected directory
 To execute the program, enter command   gcc -o password checkPasswd.c
 then, command ./password
+Follow the prompt to enter your password
 
 Filename: checkPalindrome.c
+Save the file in your selected directory
 To execute the program, enter command   gcc -o palin checkPalindrome.c
 then, command ./palin
+Follow prompt
 
 Filename: swapTwo.c
 To execute the program, enter command   gcc -o swap swapTwo.c
 then, command ./swap
 
+
 Filename: countryLookup.c
 To execute the program, enter command   gcc -o lookup countryLookup.c
 then, command ./lookup
+Follow prompt
