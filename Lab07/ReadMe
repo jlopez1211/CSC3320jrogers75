@@ -1,1 +1,9 @@
 
+File name: calcPrice.c
+To execute, run command  gcc -o price calcPrice.c
+Then, command ./price
+
+
+File name: getPhoneNumber.c
+To execute, run command  gcc -o getphone getPhoneNumber.c
+Then, command  ./getphone
